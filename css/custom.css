@@ -1,0 +1,38 @@
+.back {
+  background: green;
+  width: 50%;
+  float: right;
+}
+p {
+  background: grey;
+}
+.left {
+  width: 50%;
+  float: left;
+}
+.clear {
+  clear: both;
+}
+.margin {
+  border: 1px solid blue;
+  margin: 30px;
+  background: yellow;
+}
+.ph {
+  height: 60px;
+
+}
+.pic {
+  float: left;
+  margin-bottom: 100%;
+
+}
+.fixed{
+  position: fixed;
+  bottom: 20%;
+  left: 10px;
+}
+.leftimg {
+float:left;
+margin: 7px 7px 7px 0;
+}
